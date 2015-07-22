@@ -1,0 +1,21 @@
+{
+  "name": "tutorial2c",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ianarmstrong/tutorial2c",
+  "authors": [
+    "ianarmstrong <ian.armstrong@xtra.co.nz>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0",
+    "core-elements": "Polymer/core-elements#~0.5.6",
+    "paper-elements": "Polymer/paper-elements#~0.5.6"
+  }
+}
